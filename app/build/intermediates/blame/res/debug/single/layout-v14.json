@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.5.9/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.5.9/res/layout-v14/md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
+        "source": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.5.9/res/layout-v14/md_stub_progress.xml"
+    }
+]

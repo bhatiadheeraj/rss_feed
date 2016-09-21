@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/build/intermediates/res/merged/debug/menu/wb_menu.xml",
+        "source": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/src/main/res/menu/wb_menu.xml"
+    },
+    {
+        "merged": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
+        "source": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/src/main/res/menu/activity_main.xml"
+    }
+]

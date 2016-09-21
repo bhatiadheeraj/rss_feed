@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="JS_script_on">Abilita javascript</string>
+    <string name="Reading">Usa webview</string>
+    <string name="Readingsum">Leggi di più usando la in-app webview</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Vai alla home page"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Vai in alto"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visualizza tutte"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Condividi con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="adddialogfeed">Inserisci il tuo feed nel formato RSS</string>
+    <string name="adddialogtitle">Aggiunta feed</string>
+    <string name="build_number">Versione build</string>
+    <string name="chooser_title">Scegli il browser …</string>
+    <string name="clear_cache">Pulisci cache app</string>
+    <string name="clear_cache_sum">Questa opzione pulirà la cache dell\'app e resetterà le opzioni</string>
+    <string name="dark_theme">Scuro</string>
+    <string name="darkest_theme">Più scuro</string>
+    <string name="deletedialogquestion">Vuoi eliminare</string>
+    <string name="deletedialogtitle">Eliminazione feed</string>
+    <string name="deleteno">Annulla</string>
+    <string name="deleteok">Elimina</string>
+    <string name="email">Contattaci</string>
+    <string name="emailC">Invia con</string>
+    <string name="error">Installa un browser</string>
+    <string name="feedmenu">Aggiungi feed</string>
+    <string name="immersive_mode">Modalità immersive</string>
+    <string name="immersive_mode_sum">Abilita la modalità immersive negli articoli</string>
+    <string name="lib1sum">Codice sorgente</string>
+    <string name="light_mode">Icone status bar dark</string>
+    <string name="light_mode_sum">Abilita le icone dark nella status bar</string>
+    <string name="light_theme">Chiaro</string>
+    <string name="loading">Per favore attendi …</string>
+    <string name="moar">Feed predefiniti</string>
+    <string name="moar_pref">Mostra feeds predefiniti</string>
+    <string name="moar_pref_sum">Mostra un menu con dei feed predefiniti se abilitata</string>
+    <string name="moreopts">Altre opzioni</string>
+    <string name="nav_color">Abilita tinta navbar</string>
+    <string name="nav_color_sum">Verrà abilitata la tinta della barra di navigazione</string>
+    <string name="no_images">Disabilita immagini</string>
+    <string name="no_images_sum">Disabilita la visualizzazione delle immagini degli articoli</string>
+    <string name="no_internet">Connettiti ad internet per favore</string>
+    <string name="opts">Opzioni tema</string>
+    <string name="pref_text_large">Grande</string>
+    <string name="pref_text_medium">Intermedio</string>
+    <string name="pref_text_size_list_summary">Scegli la dimensione di default del testo degli oggetti della home</string>
+    <string name="pref_text_size_list_title">Aggiusta font lista</string>
+    <string name="pref_text_size_summary">Scegli la dimensione di default del testo degli articoli</string>
+    <string name="pref_text_size_title">Aggiusta font articoli</string>
+    <string name="pref_text_small">Piccolo</string>
+    <string name="pref_text_verylarge">Molto grande</string>
+    <string name="pref_text_verysmall">Più piccolo</string>
+    <string name="pref_theme_title">Tema app</string>
+    <string name="preics">Opzione non disponibile su smartphone pre-ICS</string>
+    <string name="prelollipop">Opzione non disponibile su smartphone pre-Lollipop</string>
+    <string name="premarshmallow">Opzione non disponibile su smartphone pre-Marshmallow</string>
+    <string name="rate_me">Vota</string>
+    <string name="settings">Opzioni</string>
+    <string name="share">Condividi</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="themesum">Necessita riavvio della app</string>
+    <string name="title_name">Nome qui</string>
+    <string name="url_name">Url qui</string>
+    <string name="version">Versione app</string>
+</resources>

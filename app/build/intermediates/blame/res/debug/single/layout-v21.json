@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/build/intermediates/res/merged/debug/layout-v21/dynamic_list.xml",
+        "source": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/src/main/res/layout-v21/dynamic_list.xml"
+    },
+    {
+        "merged": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/build/intermediates/res/merged/debug/layout-v21/toolbar.xml",
+        "source": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/src/main/res/layout-v21/toolbar.xml"
+    },
+    {
+        "merged": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/build/intermediates/res/merged/debug/layout-v21/home.xml",
+        "source": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/src/main/res/layout-v21/home.xml"
+    },
+    {
+        "merged": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/build/intermediates/res/merged/debug/layout-v21/articles_list.xml",
+        "source": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/src/main/res/layout-v21/articles_list.xml"
+    }
+]

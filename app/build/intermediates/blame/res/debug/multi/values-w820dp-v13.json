@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 57,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 38,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "/Users/bhatia/Documents/iven-feed-reader-master-as/project/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 38,
+                        "endOffset": 205
+                    }
+                }
+            }
+        ]
+    }
+]
